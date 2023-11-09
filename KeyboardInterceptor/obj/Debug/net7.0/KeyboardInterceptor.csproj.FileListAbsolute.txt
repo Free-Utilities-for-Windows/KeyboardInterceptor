@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\bin\Debug\net7.0\KeyboardInterceptor.exe
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\bin\Debug\net7.0\KeyboardInterceptor.deps.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\bin\Debug\net7.0\KeyboardInterceptor.runtimeconfig.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\bin\Debug\net7.0\KeyboardInterceptor.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\bin\Debug\net7.0\KeyboardInterceptor.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\refint\KeyboardInterceptor.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\KeyboardInterceptor.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\KeyboardInterceptor\KeyboardInterceptor\obj\Debug\net7.0\ref\KeyboardInterceptor.dll
